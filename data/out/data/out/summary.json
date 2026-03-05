@@ -1,0 +1,21 @@
+{
+  "n_conversations": 0,
+  "intents_top20": [],
+  "nodes_top20": [],
+  "escalated_counts": {},
+  "issue_types_top20": [],
+  "avg_rating": null,
+  "intent_node_top20": [],
+  "sampling": {
+    "strategy": "stratified",
+    "population": 0,
+    "n": 0
+  },
+  "export": {
+    "conversation_jsonl": "data\\out\\data\\out\\sample_conversations.jsonl",
+    "messages_csv": "data\\out\\data\\out\\sample_messages.csv",
+    "review_csv": "data\\out\\data\\out\\sample_review.csv",
+    "n_conversations": 0,
+    "n_messages": 0
+  }
+}

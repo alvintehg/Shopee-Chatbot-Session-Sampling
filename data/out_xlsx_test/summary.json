@@ -1,0 +1,374 @@
+{
+  "n_conversations": 4788,
+  "intents_top20": [
+    [
+      "2497 - When will the order arrive?",
+      376
+    ],
+    [
+      "3170 - What is the status of my order?",
+      333
+    ],
+    [
+      "3490 - How can I speed up my package delivery?",
+      247
+    ],
+    [
+      "3219 - How can I contact the courier assigned to my order?",
+      202
+    ],
+    [
+      "2503 - What should I do if I have not received an order that is shown as \"delivered\"?",
+      181
+    ],
+    [
+      "3178 - What is the status of my return/refund request?",
+      143
+    ],
+    [
+      "__NULL__",
+      141
+    ],
+    [
+      "2579 - How to raise a return/refund request?",
+      139
+    ],
+    [
+      "2498 - How to request for a re-delivery?",
+      127
+    ],
+    [
+      "2478 - How can I cancel my order?",
+      124
+    ],
+    [
+      "2509 - Why is my delivery attempt unsuccessful?",
+      116
+    ],
+    [
+      "4597 - I need help with my ShopeeFood order",
+      86
+    ],
+    [
+      "3119 - When and how will I be receiving my refund?",
+      66
+    ],
+    [
+      "3048 - Can I contact my delivery driver?",
+      59
+    ],
+    [
+      "3141 - How will I get my refund for cancelled orders?",
+      45
+    ],
+    [
+      "4613 - How do I rate the courier service for my delivered orders?",
+      45
+    ],
+    [
+      "3232 - Why is the parcel status not updated even after the parcel has been delivered?",
+      44
+    ],
+    [
+      "4703 - How do I cancel my ShopeeFood order?",
+      43
+    ],
+    [
+      "3075 - What will happen if the seller doesn't ship out my order?",
+      40
+    ],
+    [
+      "3041 - Sorry",
+      39
+    ]
+  ],
+  "nodes_top20": [
+    [
+      "__NULL__",
+      1123
+    ],
+    [
+      "3_SOP106_NODE1_CASE_5",
+      42
+    ],
+    [
+      "3_SOP12_NODE41_CASE_7",
+      25
+    ],
+    [
+      "3_SOP67_NODE47_CASE_2",
+      24
+    ],
+    [
+      "3_SOP76_NODE822_CASE_1",
+      21
+    ],
+    [
+      "3_SOP91_NODE825_CASE_14",
+      19
+    ],
+    [
+      "3_SOP12_NODE249_CASE_4",
+      18
+    ],
+    [
+      "3_SOP19_NODE5884_CASE_6",
+      18
+    ],
+    [
+      "3_SOP23_NODE64_CASE_8",
+      16
+    ],
+    [
+      "3_SOP10_NODE5645_CASE_1",
+      16
+    ],
+    [
+      "3_SOP76_NODE839_CASE_1",
+      15
+    ],
+    [
+      "3_SOP10_NODE5573_CASE_1",
+      15
+    ],
+    [
+      "3_SOP91_NODE911_CASE_23",
+      14
+    ],
+    [
+      "3_SOP12_NODE20_CASE_6",
+      14
+    ],
+    [
+      "3_SOP23_NODE98_CASE_1",
+      13
+    ],
+    [
+      "0_SOP715_NODE1_",
+      13
+    ],
+    [
+      "3_SOP23_NODE10_CASE_1",
+      12
+    ],
+    [
+      "3_SOP19_NODE5828_CASE_3",
+      12
+    ],
+    [
+      "3_SOP70_NODE1_CASE_1",
+      12
+    ],
+    [
+      "3_SOP12_NODE204_CASE_2",
+      12
+    ]
+  ],
+  "escalated_counts": {
+    "False": 3957,
+    "None": 726,
+    "True": 105
+  },
+  "issue_types_top20": [
+    [
+      "other",
+      2810
+    ],
+    [
+      "order_shipping",
+      1672
+    ],
+    [
+      "1068857798071974 - Buyer - Expedite delivery",
+      60
+    ],
+    [
+      "1068857798072056 - Request for 3PLs/rider contact",
+      54
+    ],
+    [
+      "1068857798071978 - Buyer - Parcel logistics status not moving (Stuck)",
+      36
+    ],
+    [
+      "1068857798071976 - Failed delivery attempt - Fake Delivery",
+      32
+    ],
+    [
+      "1068857798071985 - Status is delivered but not yet received",
+      26
+    ],
+    [
+      "1068857798071997 - Buyer - Request to cancel the order",
+      9
+    ],
+    [
+      "cancellation",
+      8
+    ],
+    [
+      "1068857798071980 - Buyer - Parcel showing \"Misrouted\"",
+      7
+    ],
+    [
+      "1068857798072001 - Parcel is picked up/dropped off but tracking status not updated",
+      5
+    ],
+    [
+      "1068857798071970 - Change delivery address",
+      4
+    ],
+    [
+      "1068857798071959 - Request for re-delivery after collection period",
+      3
+    ],
+    [
+      "1165788285745055 - Seller doesn't ship out my order",
+      3
+    ],
+    [
+      "1165796374023193 - Schedule delivery date and time for order",
+      3
+    ],
+    [
+      "1068857798072015 - Report rider",
+      3
+    ],
+    [
+      "1068857798071968 - Parcel is missing from collection point",
+      2
+    ],
+    [
+      "1068857798072063 - where to find tracking number",
+      2
+    ],
+    [
+      "1068857798071990 - Order cancelled but refund not received",
+      2
+    ],
+    [
+      "1068857798071989 - Issue with the Late Delivery Compensation Voucher",
+      2
+    ]
+  ],
+  "avg_rating": null,
+  "intent_node_top20": [
+    {
+      "intent": "5292 - Help me please",
+      "node_id": "3_SOP86_NODE177_CASE_13",
+      "count": 1
+    },
+    {
+      "intent": "3149 - Why can't I raise a return request?",
+      "node_id": "3_SOP23_NODE64_CASE_8",
+      "count": 1
+    },
+    {
+      "intent": "3492 - Is the order being re-routed due to misrouting?",
+      "node_id": "0_SOP76_NODE6387_CASE_4",
+      "count": 1
+    },
+    {
+      "intent": "4597 - I need help with my ShopeeFood order",
+      "node_id": "3_SOP50_NODE162_CASE_18",
+      "count": 1
+    },
+    {
+      "intent": "4163 - Why is my order status “Out for Delivery” but I have yet to receive it?",
+      "node_id": "3_SOP76_NODE839_CASE_1",
+      "count": 1
+    },
+    {
+      "intent": "3331 - How can I determine if my refund case has been approved?",
+      "node_id": "3_SOP12_NODE333_CASE_16",
+      "count": 1
+    },
+    {
+      "intent": "2600 - What should I do if my refund amount is different than expected?,2605 - Can I raise a return/refund request after selecting \"Order Received\"?",
+      "node_id": "__NULL__",
+      "count": 1
+    },
+    {
+      "intent": "4703 - How do I cancel my ShopeeFood order?",
+      "node_id": "3_SOP53_NODE238_CASE_11",
+      "count": 1
+    },
+    {
+      "intent": "2497 - When will the order arrive?",
+      "node_id": "3_SOP10_NODE5849_CASE_3",
+      "count": 1
+    },
+    {
+      "intent": "3490 - How can I speed up my package delivery?",
+      "node_id": "3_SOP23_NODE107_CASE_1",
+      "count": 1
+    },
+    {
+      "intent": "2493 - Why didn't the order status get updated after the seller shipped the parcel?",
+      "node_id": "3_SOP12_NODE311_CASE_20",
+      "count": 1
+    },
+    {
+      "intent": "3490 - How can I speed up my package delivery?",
+      "node_id": "3_SOP13_NODE5769_CASE_16",
+      "count": 1
+    },
+    {
+      "intent": "2503 - What should I do if I have not received an order that is shown as \"delivered\"?",
+      "node_id": "3_SOP13_NODE5636_CASE_5",
+      "count": 1
+    },
+    {
+      "intent": "2587 - How can I track my return parcel?",
+      "node_id": "3_SOP12_NODE249_CASE_4",
+      "count": 1
+    },
+    {
+      "intent": "3274 - How can I withdraw or cancel my order cancellation request?,2482 - Why was my order automatically cancelled by Shopee?",
+      "node_id": "__NULL__",
+      "count": 1
+    },
+    {
+      "intent": "3490 - How can I speed up my package delivery?",
+      "node_id": "3_SOP15_NODE483_CASE_6",
+      "count": 1
+    },
+    {
+      "intent": "4697 - What is Auto Subscription feature?",
+      "node_id": "__NULL__",
+      "count": 1
+    },
+    {
+      "intent": "2497 - When will the order arrive?",
+      "node_id": "3_SOP91_NODE865_CASE_3",
+      "count": 1
+    },
+    {
+      "intent": "43213 - How to raise a return/refund request?",
+      "node_id": "SOP5_Node4417__case_16",
+      "count": 1
+    },
+    {
+      "intent": "2631 - Why didn't I receive my Shopee Coins?,4619 - How do I use My Enquiries feature on the Shopee?",
+      "node_id": "__NULL__",
+      "count": 1
+    }
+  ],
+  "sampling": {
+    "strategy": "stratified",
+    "population": 107499,
+    "n": 4788,
+    "stratify_by": [
+      "intent",
+      "node_id"
+    ],
+    "n_strata": 4788,
+    "max_per_stratum": 10
+  },
+  "export": {
+    "conversation_jsonl": "data\\out_xlsx_test\\sample_conversations.jsonl",
+    "messages_csv": "data\\out_xlsx_test\\sample_messages.csv",
+    "n_conversations": 4788,
+    "n_messages": 4788
+  }
+}

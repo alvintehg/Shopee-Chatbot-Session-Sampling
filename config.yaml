@@ -1,0 +1,132 @@
+project:
+  name: shopee-bot-transcript-sampler
+  timezone: Asia/Kuala_Lumpur
+
+input:
+  web_mode:
+    login_url: "https://common.chatbot-platform.shopee.com/chatbot/traffic-management-centre/chat-transcript?tenantId=6&botId=30030&region=my"
+    headless: false
+    max_conversations: 5
+    max_pages: 1
+    wait_after_filter_seconds: 2.0
+    post_login_url_contains: "/chatbot/traffic-management-centre/chat-transcript"
+    filter_ready_selector: "//div[contains(@class,'ant-picker-range')]"
+    login_timeout_seconds: 600
+    storage_state_path: ".auth/storage_state.json"
+
+    selectors:
+      # Targets the red "View" link
+      transcript_links: "//table//tbody/tr/td[last()]//a[text()='View']"
+      
+      next_page: "//li[contains(@class, 'ant-pagination-next')]//button"
+      
+      # --- INSIDE THE DRAWER (matched from DOM: ChatbotUI classes) ---
+      conversation_id: "//div[contains(@class, 'ant-drawer')]//span[contains(text(),'Chatbot Session ID')]/following-sibling::*"
+      message_row: "div.bubble-wrapper"
+      message_text: "div.ChatbotUI-text"
+      message_sender: "div.message-body"
+      message_timestamp: "div.message-body"
+
+      # "Close" button visible at bottom of drawer
+      transcript_close_button: "//div[contains(@class, 'ant-drawer-open')]//button[.//span[text()='Close'] or contains(text(),'Close')] | //div[contains(@class, 'ant-drawer-open')]//button[contains(@class, 'ant-drawer-close')]"
+
+    filters:
+      - action: "click"
+        selector: "//div[contains(@class,'ant-picker-range')]"
+      - action: "click"
+        selector: "//li[contains(@class, 'ant-picker-preset')]//span[text()='last 3 days']"
+      - action: "wait"
+        value: "1.0"
+      # Use Escape to close the date picker if OK is hidden
+      - action: "press"
+        selector: "//body"
+        value: "Escape"
+
+      - action: "wait"
+        value: "1.0"
+
+      # Rating Filter — remove all tags except "Bad"
+      - action: "select_only"
+        selector: "Rating"
+        value: "Bad"
+
+      - action: "wait"
+        value: "1.0"
+
+      - action: "click"
+        selector: "//button//span[text()='Search'] | //button//span[text()='Query']"
+        optional: true
+
+filters: {}
+
+issue_tagging:
+  enabled: true
+  default_issue_type: "Unclear"
+  overwrite_existing: true
+  enforce_allowed_issue_types: true
+  allowed_issue_types:
+    - "Physical shop enquiry"
+    - "Urgent shipping"
+    - "Hallucination"
+    - "Wrong Intent"
+    - "Incomplete/Wrong delivery of the items"
+    - "Solution did not give better explanation"
+    - "Seller on vacation"
+    - "Wrong Language"
+    - "Lack of post sale information guide"
+    - "Cannot find live agent"
+    - "Solution did not provide the delivery timeline"
+    - "Wrong Intent and Lack of Feature"
+    - "Solution did not provide the shipping timeline"
+    - "Lack of information of the product"
+    - "Enquiring for exchanges"
+    - "Pre Ordering and Stock Enquiry"
+    - "Unclear"
+    - "Customization of product"
+  taxonomy:
+    "Physical shop enquiry": ["physical shop", "walk in", "store location", "outlet", "branch", "kedai", "kedai fizikal"]
+    "Urgent shipping": ["urgent", "fast delivery", "express", "rush", "segera", "cepat hantar"]
+    "Hallucination": ["hallucinate", "wrong info", "incorrect information", "made up", "not true", "inaccurate"]
+    "Wrong Intent": ["wrong intent", "not what I asked", "different question", "misunderstood", "salah faham"]
+    "Incomplete/Wrong delivery of the items": ["wrong item", "missing item", "incomplete", "not received", "damaged", "broken", "barang salah", "tak lengkap", "rosak"]
+    "Solution did not give better explanation": ["not clear", "unclear explanation", "need more details", "confusing", "tidak jelas", "tak faham"]
+    "Seller on vacation": ["vacation", "holiday", "not available", "closed", "cuti", "seller unavailable"]
+    "Wrong Language": ["wrong language", "bahasa", "language", "english", "malay", "chinese", "cannot understand"]
+    "Lack of post sale information guide": ["after sales", "post sale", "warranty", "return policy", "guide", "panduan selepas beli"]
+    "Cannot find live agent": ["live agent", "human agent", "talk to agent", "real person", "customer service", "speak to someone", "live chat", "ejen"]
+    "Solution did not provide the delivery timeline": ["delivery time", "when arrive", "delivery date", "estimated delivery", "bila sampai", "ETA delivery"]
+    "Wrong Intent and Lack of Feature": ["wrong intent", "missing feature", "not supported", "cannot do", "feature unavailable"]
+    "Solution did not provide the shipping timeline": ["shipping time", "shipping date", "when ship", "dispatch", "bila hantar", "shipping timeline"]
+    "Lack of information of the product": ["product info", "product detail", "specification", "spec", "maklumat produk", "no information"]
+    "Enquiring for exchanges": ["exchange", "swap", "replace", "tukar", "ganti"]
+    "Pre Ordering and Stock Enquiry": ["pre order", "preorder", "stock", "availability", "in stock", "out of stock", "restock", "stok"]
+    "Customization of product": ["custom", "customize", "personalize", "special order", "custom made", "tempahan khas"]
+
+review_labeling:
+  issue:
+    default: "Unclear"
+    allowed:
+      - "No existing intent"
+      - "Solutioning Poor"
+      - "Wrong Intent"
+      - "No Answer, but intent exist"
+      - "Lack PDP Info"
+      - "Unclear"
+      - "Bad case"
+    taxonomy:
+      "Solutioning Poor": ["solution", "wrong answer", "bad answer", "incorrect response", "not helpful", "jawapan salah"]
+      "Wrong Intent": ["wrong intent", "misunderstood", "different question", "salah faham"]
+      "No Answer, but intent exist": ["no answer", "did not answer", "no response", "tiada jawapan", "tak jawab"]
+      "No existing intent": ["no intent", "unknown intent", "unrecognized", "not recognized"]
+      "Lack PDP Info": ["product info", "PDP", "product detail", "product page", "specification", "maklumat produk"]
+      "Bad case": ["bad case", "worst", "terrible", "fail", "teruk"]
+
+sampling:
+  strategy: random
+  n_conversations: 5
+
+output:
+  conversation_jsonl: sample_conversations.jsonl
+  messages_csv: sample_messages.csv
+  review_csv: sample_review.csv
+  summary_json: summary.json

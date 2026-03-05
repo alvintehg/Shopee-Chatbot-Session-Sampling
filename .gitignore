@@ -1,0 +1,9 @@
+.env
+data/raw/
+data/out/
+__pycache__/
+.venv/
+.vscode/
+*.pyc
+.DS_Store
+.auth/

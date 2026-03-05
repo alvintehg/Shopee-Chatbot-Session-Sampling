@@ -1,0 +1,44 @@
+{
+  "n_conversations": 5,
+  "intents_top20": [
+    [
+      "__NULL__",
+      5
+    ]
+  ],
+  "nodes_top20": [
+    [
+      "__NULL__",
+      5
+    ]
+  ],
+  "escalated_counts": {
+    "None": 5
+  },
+  "issue_types_top20": [
+    [
+      "Unclear",
+      5
+    ]
+  ],
+  "avg_rating": null,
+  "intent_node_top20": [
+    {
+      "intent": "__NULL__",
+      "node_id": "__NULL__",
+      "count": 5
+    }
+  ],
+  "sampling": {
+    "strategy": "random",
+    "n": 5,
+    "population": 5
+  },
+  "export": {
+    "conversation_jsonl": "data\\out\\sample_conversations.jsonl",
+    "messages_csv": "data\\out\\sample_messages.csv",
+    "review_csv": "data\\out\\sample_review.csv",
+    "n_conversations": 5,
+    "n_messages": 12
+  }
+}

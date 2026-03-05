@@ -1,0 +1,201 @@
+﻿Session Date,Session ID,Intent,Node Point ID,Deflected?,CSAT,Issue,Correct Intent,Issue Type,Description
+2026-02-06,1.7026504309640223e+18,43223 - Who is responsible for paying the return shipping costs if I request a refund?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702602594524141e+18,43213 - How to raise a return/refund request?,SOP1_Node78__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091975476267075e+18,,SOP117_Node695__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026889753175698e+18,,SOP121_Node114__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702629960159674e+18,,SOP103_Node14__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026360393084416e+18,,SOP117_Node693__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702683522260717e+18,43255 - How can I cancel my order?,SOP1_Node82__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091934650759096e+18,43249 - When will the order arrive?,SOP10_Node5652__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091989238700723e+18,43255 - How can I cancel my order?,SOP5_Node4438__case_1,Yes,Unrated,,,cancellation,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.709203626582809e+18,,SOP117_Node696__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091994109713882e+18,"43221 - Can I raise a return/refund request after selecting ""Order Received""?",,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092125413828355e+18,,SOP117_Node683__case_3,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026556735837007e+18,43259 - How can I speed up my package delivery?,SOP114_Node4__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025899689478129e+18,,SOP103_Node36__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026617657263726e+18,43249 - When will the order arrive?,SOP10_Node5518__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026731728657718e+18,43259 - How can I speed up my package delivery?,SOP15_Node25__case_1,No,Bad,,,other,- Session was transferred to live agent; CSAT: Bad
+2026-02-06,1.702641233266314e+18,"43260 - What should I do if I have not received an order that is shown as ""delivered""?",SOP17_Node38__case_2,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026314545650665e+18,43274 - Accidentally click 'Received' but parcel hasn't arrived,SOP10_Node5671__case_2,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026122797260677e+18,,SOP117_Node704__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026482632467085e+18,43256 - How to rate the courier service for my purchased item?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026662947946314e+18,,SOP121_Node104__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026253234911176e+18,43249 - When will the order arrive?,SOP10_Node5602__case_6,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702680328223159e+18,,SOP121_Node95__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026262248219264e+18,,SOP121_Node93__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092110642500593e+18,43249 - When will the order arrive?,SOP10_Node5769__case_4,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.709209600714582e+18,43255 - How can I cancel my order?,SOP5_Node4422__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025952370942428e+18,43215 - What is the status of my return/refund request?,SOP12_Node41__case_7,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025971353441042e+18,43213 - How to raise a return/refund request?,SOP114_Node1__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091990780528044e+18,43213 - How to raise a return/refund request?,SOP1_Node4__,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.709209557865208e+18,43249 - When will the order arrive?,SOP10_Node5769__case_6,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025978363801702e+18,43213 - How to raise a return/refund request?,SOP10_Node5540__case_1,No,Bad,,,other,- Session was transferred to live agent; CSAT: Bad
+2026-02-06,1.702607710039688e+18,,SOP117_Node681__case_3,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092010143621286e+18,,SOP117_Node657__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709194530278112e+18,43226 - What effective supporting documents can I submit as evidence for my refund/return request?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092024804305692e+18,,SOP121_Node131__,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026688145481165e+18,43250 - How to request for a re-delivery?,SOP114_Node4__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091942800126776e+18,43255 - How can I cancel my order?,SOP10_Node5652__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092087056499927e+18,43255 - How can I cancel my order?,SOP10_Node5518__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092119561432988e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091964062980849e+18,43665 - Why hasn't my payment been confirmed?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7024510463007839e+18,43249 - When will the order arrive?,SOP10_Node5323__case_1,No,Good,,,other,- Session was transferred to live agent; CSAT: Good
+2026-02-15,1.70919818430515e+18,43249 - When will the order arrive?,SOP10_Node5769__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091940481180426e+18,43255 - How can I cancel my order?,SOP5_Node4417__case_10,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.709198767867175e+18,43231 - What is 15 Day Free Returns - Change of Mind?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026542148298496e+18,,SOP121_Node86__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026660762461993e+18,,SOP121_Node120__case_3,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092015718600376e+18,43250 - How to request for a re-delivery?,SOP18_Node9__,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092129881264783e+18,43213 - How to raise a return/refund request?,SOP1_Node10__case_2,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026447096651607e+18,,SOP117_Node702__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709205310587377e+18,43255 - How can I cancel my order?,SOP5_Node24__,Yes,Unrated,,,cancellation,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026592963386908e+18,43266 - How to report a Rider?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026781368334623e+18,43663 - How do you shop on Shopee?,,No,Bad,,,other,- Session was transferred to live agent; CSAT: Bad
+2026-02-15,1.7092046087964728e+18,,SOP121_Node94__,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.702662594915242e+18,,SOP121_Node111__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092013474986038e+18,43217 - How can I cancel Return / Refund request?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026547054885366e+18,,SOP103_Node1__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092015493874153e+18,43213 - How to raise a return/refund request?,SOP5_Node4417__case_16,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.709193459170597e+18,43213 - How to raise a return/refund request?,SOP1_Node11__case_2,Yes,Good,,,other,- Session was not transferred to live agent; CSAT: Good
+2026-02-15,1.7091954374476646e+18,,SOP121_Node132__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092104530640553e+18,43255 - How can I cancel my order?,SOP5_Node4410__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026803684124777e+18,"43260 - What should I do if I have not received an order that is shown as ""delivered""?",SOP17_Node28__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092082470699617e+18,,SOP100_Node120__case_6,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026311595294356e+18,,SOP117_Node659__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709196810251423e+18,,SOP117_Node686__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092108890201825e+18,,SOP121_Node7__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092026939876641e+18,,SOP117_Node718__,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026701925196616e+18,,SOP117_Node698__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092029273170737e+18,,SOP121_Node102__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092078796738819e+18,43258 - What will happen if the seller doesn't ship out my order?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.702595129762089e+18,,SOP117_Node663__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026124720845955e+18,43255 - How can I cancel my order?,SOP5_Node4417__case_14,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702632464478234e+18,,SOP117_Node681__case_4,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092018162036792e+18,43255 - How can I cancel my order?,SOP5_Node4395__case_9,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092063722833285e+18,43656 - How much is the shipping fee if sent to my address?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.702667710472725e+18,,SOP117_Node684__case_3,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709207531966509e+18,43213 - How to raise a return/refund request?,SOP114_Node4__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709205661214284e+18,,SOP103_Node18__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702689113989696e+18,43253 - What is the status of my order?,SOP10_Node5272__case_1,No,Bad,,,other,- Session was transferred to live agent; CSAT: Bad
+2026-02-06,1.7026663589257516e+18,,SOP117_Node710__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709211115109743e+18,43213 - How to raise a return/refund request?,SOP1_Node56__case_2,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026516906054239e+18,43249 - When will the order arrive?,SOP10_Node5461__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092114955582126e+18,43255 - How can I cancel my order?,SOP114_Node4__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709195780843168e+18,43257 - How will I get my refund for cancelled orders?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025900593013412e+18,43249 - When will the order arrive?,SOP10_Node5608__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702687147456339e+18,,SOP121_Node117__case_2,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025942993318482e+18,43213 - How to raise a return/refund request?,SOP1_Node26__case_2,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026028802734664e+18,43275 - Why is the parcel status not updated even after the parcel has been delivered?,SOP10_Node5602__case_6,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709202128100337e+18,,SOP117_Node685__case_3,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092009332774564e+18,43213 - How to raise a return/refund request?,SOP10_Node5543__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091960783370798e+18,43213 - How to raise a return/refund request?,SOP1_Node71__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026296835373512e+18,41757 - Can I refuse to pay when parcel arrived?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026285917176893e+18,43213 - How to raise a return/refund request?,SOP1_Node19__case_4,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026785533528397e+18,,SOP117_Node667__case_5,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026430497942203e+18,,SOP117_Node655__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091937672417994e+18,43248 - Can I add more products to a paid order?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091948852928023e+18,43255 - How can I cancel my order?,SOP10_Node5520__case_1,No,Unrated,,,cancellation,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092063646493594e+18,43265 - How to check the Proof of Delivery (POD) of my order?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026148289648343e+18,,SOP117_Node672__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092055560378598e+18,43253 - What is the status of my order?,SOP10_Node5518__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026547700469325e+18,43259 - How can I speed up my package delivery?,SOP15_Node9__,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709203772619721e+18,,SOP117_Node683__case_4,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026538386094413e+18,43213 - How to raise a return/refund request?,SOP1_Node66__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092030668610831e+18,43216 - How do I return my parcel?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026612807977213e+18,43669 - How do I use SPayLater?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026040737291016e+18,,SOP117_Node687__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092115744025556e+18,43213 - How to raise a return/refund request?,SOP1_Node67__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026300685321836e+18,43213 - How to raise a return/refund request?,SOP1_Node19__case_5,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092118072369116e+18,,SOP121_Node126__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091986766494108e+18,,SOP117_Node677__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025934207677512e+18,43668 - Will an invoice be provided?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025923083627156e+18,43249 - When will the order arrive?,SOP114_Node4__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702599746021139e+18,43655 - Is this product free shipping?,SOP48_Node3__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092091002586204e+18,43213 - How to raise a return/refund request?,SOP1_Node54__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.702652323727249e+18,,SOP117_Node681__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091965539207982e+18,43293 - Why did the seller split my order?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026898617081298e+18,,SOP117_Node676__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091968555246216e+18,43259 - How can I speed up my package delivery?,SOP15_Node28__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091930761296138e+18,,SOP117_Node699__case_5,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092113671877002e+18,,SOP117_Node703__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091990338870492e+18,43259 - How can I speed up my package delivery?,SOP15_Node45__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092079348710428e+18,43218 - Can I request for an exchange instead of raising a refund?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092054269455537e+18,43255 - How can I cancel my order?,SOP5_Node4406__case_9,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026332653972012e+18,,SOP117_Node660__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702617402438611e+18,,SOP121_Node108__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026511531812485e+18,43214 - When and how will I be receiving my refund?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026639844544876e+18,43250 - How to request for a re-delivery?,SOP10_Node5602__case_6,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092068903636483e+18,43213 - How to raise a return/refund request?,SOP5_Node4422__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026319071388206e+18,43267 - Why was my order automatically cancelled by Shopee?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026425738916913e+18,43213 - How to raise a return/refund request?,SOP114_Node2__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026122505085555e+18,,SOP121_Node6__case_4,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702689072407291e+18,,SOP121_Node6__case_18,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.70921399740186e+18,43289 - What should I do if seller is not responding to my cancellation request?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091945879161093e+18,43255 - How can I cancel my order?,SOP5_Node4467__case_1,Yes,Unrated,,,cancellation,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092046192231567e+18,,SOP121_Node92__case_1,Yes,Good,,,other,- Session was not transferred to live agent; CSAT: Good
+2026-02-15,1.709208228329434e+18,43250 - How to request for a re-delivery?,SOP18_Node33__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092040371964017e+18,,SOP117_Node92__case_2,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092029878573386e+18,41748 - When should I make reverse payments for order cancellations?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026017040817357e+18,43249 - When will the order arrive?,SOP10_Node5651__case_1,No,Bad,,,other,- Session was transferred to live agent; CSAT: Bad
+2026-02-15,1.709201687824357e+18,43255 - How can I cancel my order?,SOP5_Node4417__case_15,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026013249417503e+18,43253 - What is the status of my order?,SOP10_Node5602__case_6,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025998998852818e+18,43255 - How can I cancel my order?,SOP5_Node4423__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026854379586442e+18,,SOP117_Node667__case_8,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026262776447895e+18,43253 - What is the status of my order?,SOP12_Node20__case_2,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709212923349917e+18,43220 - When and how can I apply for a return/refund?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702646950371086e+18,43254 - How can I contact the courier assigned to my order?,SOP114_Node4__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026590236332677e+18,43264 - Why is my parcel status not updated?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702617301037169e+18,43250 - How to request for a re-delivery?,SOP10_Node5651__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091953204261975e+18,43213 - How to raise a return/refund request?,SOP1_Node82__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026232266158172e+18,42216 - Chat with Seller,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709207634408189e+18,43250 - How to request for a re-delivery?,SOP10_Node5769__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025992577201956e+18,,SOP117_Node684__case_4,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709195804029314e+18,43213 - How to raise a return/refund request?,SOP1_Node68__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709194631788502e+18,43213 - How to raise a return/refund request?,SOP1_Node72__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.709197401874526e+18,,SOP117_Node93__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026032382657708e+18,43667 - Why am I unable to use my address for this order?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092111873863498e+18,43662 - Why can't I place an order?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026200573911378e+18,,SOP117_Node658__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025895002931113e+18,43255 - How can I cancel my order?,SOP10_Node5651__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026396521393802e+18,43647 - Where are the offline stores located?,,No,Bad,,,other,- Session was transferred to live agent; CSAT: Bad
+2026-02-06,1.7026823729460854e+18,43255 - How can I cancel my order?,SOP10_Node5540__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026321690646346e+18,43213 - How to raise a return/refund request?,SOP1_Node75__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091931351351017e+18,41752 - How should I pack my parcel for return/refund?,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.702682704488781e+18,,SOP100_Node121__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026013414756388e+18,43648 - Can you wrap my parcel using a bubble wrap or cardboard?,,No,Good,,,other,- Session was transferred to live agent; CSAT: Good
+2026-02-06,1.7025794571496653e+18,,SOP117_Node3__,No,Good,,,other,- Session was transferred to live agent; CSAT: Good
+2026-02-15,1.7091970200250724e+18,,SOP121_Node116__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026455074299592e+18,,SOP117_Node683__case_8,No,Bad,,,other,- Session was transferred to live agent; CSAT: Bad
+2026-02-15,1.7092136049575508e+18,43249 - When will the order arrive?,SOP10_Node24__,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.702592613792026e+18,43251 - Can I schedule the date and time of delivery for my order?,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091979444585152e+18,,SOP103_Node37__,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.709213212429555e+18,43259 - How can I speed up my package delivery?,SOP15_Node30__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.702620675220591e+18,,__,No,Bad,,,other,- Session was transferred to live agent; CSAT: Bad
+2026-02-06,1.7026081796590892e+18,,SOP100_Node123__case_1,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092078766292152e+18,43213 - How to raise a return/refund request?,SOP10_Node5542__case_1,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092013127110052e+18,,SOP121_Node118__case_3,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026512448515082e+18,,SOP117_Node667__case_4,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.70262031854547e+18,43274 - Accidentally click 'Received' but parcel hasn't arrived,SOP10_Node5769__case_4,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026514062824545e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092116020600952e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091998602737956e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026618539665213e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702682283221199e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702607814897478e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709195948892746e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091999969663685e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.709201087535561e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091967321617516e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025918354294477e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.7025909165752484e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-06,1.702609803870084e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.709210706500632e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092075803934556e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026822514873787e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092056465596178e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.702615155650798e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated
+2026-02-15,1.7091951181349222e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-15,1.7092112257301596e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7023717788876833e+18,,,No,Good,,,other,- Session was transferred to live agent; CSAT: Good
+2026-02-15,1.7092123264166943e+18,,,Yes,Unrated,,,other,- Session was not transferred to live agent; CSAT: Unrated
+2026-02-06,1.7026335692827226e+18,,,No,Unrated,,,other,- Session was transferred to live agent; CSAT: Unrated

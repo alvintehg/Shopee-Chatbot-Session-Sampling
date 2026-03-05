@@ -1,0 +1,302 @@
+{
+  "n_conversations": 200,
+  "intents_top20": [
+    [
+      "__NULL__",
+      89
+    ],
+    [
+      "43213 - How to raise a return/refund request?",
+      24
+    ],
+    [
+      "43255 - How can I cancel my order?",
+      18
+    ],
+    [
+      "43249 - When will the order arrive?",
+      12
+    ],
+    [
+      "43259 - How can I speed up my package delivery?",
+      6
+    ],
+    [
+      "43250 - How to request for a re-delivery?",
+      6
+    ],
+    [
+      "43253 - What is the status of my order?",
+      4
+    ],
+    [
+      "43260 - What should I do if I have not received an order that is shown as \"delivered\"?",
+      2
+    ],
+    [
+      "43274 - Accidentally click 'Received' but parcel hasn't arrived",
+      2
+    ],
+    [
+      "43223 - Who is responsible for paying the return shipping costs if I request a refund?",
+      1
+    ],
+    [
+      "43221 - Can I raise a return/refund request after selecting \"Order Received\"?",
+      1
+    ],
+    [
+      "43256 - How to rate the courier service for my purchased item?",
+      1
+    ],
+    [
+      "43215 - What is the status of my return/refund request?",
+      1
+    ],
+    [
+      "43226 - What effective supporting documents can I submit as evidence for my refund/return request?",
+      1
+    ],
+    [
+      "43665 - Why hasn't my payment been confirmed?",
+      1
+    ],
+    [
+      "43231 - What is 15 Day Free Returns - Change of Mind?",
+      1
+    ],
+    [
+      "43266 - How to report a Rider?",
+      1
+    ],
+    [
+      "43663 - How do you shop on Shopee?",
+      1
+    ],
+    [
+      "43217 - How can I cancel Return / Refund request?",
+      1
+    ],
+    [
+      "43258 - What will happen if the seller doesn't ship out my order?",
+      1
+    ]
+  ],
+  "nodes_top20": [
+    [
+      "__NULL__",
+      57
+    ],
+    [
+      "SOP114_Node4__case_1",
+      6
+    ],
+    [
+      "SOP10_Node5602__case_6",
+      4
+    ],
+    [
+      "SOP10_Node5518__case_1",
+      3
+    ],
+    [
+      "SOP10_Node5651__case_1",
+      3
+    ],
+    [
+      "SOP1_Node82__case_1",
+      2
+    ],
+    [
+      "SOP10_Node5652__case_1",
+      2
+    ],
+    [
+      "SOP10_Node5769__case_4",
+      2
+    ],
+    [
+      "SOP5_Node4422__case_1",
+      2
+    ],
+    [
+      "SOP10_Node5540__case_1",
+      2
+    ],
+    [
+      "SOP10_Node5769__case_1",
+      2
+    ],
+    [
+      "SOP1_Node78__case_1",
+      1
+    ],
+    [
+      "SOP117_Node695__case_1",
+      1
+    ],
+    [
+      "SOP121_Node114__case_1",
+      1
+    ],
+    [
+      "SOP103_Node14__case_1",
+      1
+    ],
+    [
+      "SOP117_Node693__case_1",
+      1
+    ],
+    [
+      "SOP5_Node4438__case_1",
+      1
+    ],
+    [
+      "SOP117_Node696__case_1",
+      1
+    ],
+    [
+      "SOP117_Node683__case_3",
+      1
+    ],
+    [
+      "SOP103_Node36__case_1",
+      1
+    ]
+  ],
+  "escalated_counts": {
+    "True": 120,
+    "False": 80
+  },
+  "issue_types_top20": [
+    [
+      "Unclear",
+      199
+    ],
+    [
+      "Urgent shipping",
+      1
+    ]
+  ],
+  "avg_rating": null,
+  "intent_node_top20": [
+    {
+      "intent": "__NULL__",
+      "node_id": "__NULL__",
+      "count": 24
+    },
+    {
+      "intent": "43223 - Who is responsible for paying the return shipping costs if I request a refund?",
+      "node_id": "__NULL__",
+      "count": 1
+    },
+    {
+      "intent": "43213 - How to raise a return/refund request?",
+      "node_id": "SOP1_Node78__case_1",
+      "count": 1
+    },
+    {
+      "intent": "__NULL__",
+      "node_id": "SOP117_Node695__case_1",
+      "count": 1
+    },
+    {
+      "intent": "__NULL__",
+      "node_id": "SOP121_Node114__case_1",
+      "count": 1
+    },
+    {
+      "intent": "__NULL__",
+      "node_id": "SOP103_Node14__case_1",
+      "count": 1
+    },
+    {
+      "intent": "__NULL__",
+      "node_id": "SOP117_Node693__case_1",
+      "count": 1
+    },
+    {
+      "intent": "43255 - How can I cancel my order?",
+      "node_id": "SOP1_Node82__case_1",
+      "count": 1
+    },
+    {
+      "intent": "43249 - When will the order arrive?",
+      "node_id": "SOP10_Node5652__case_1",
+      "count": 1
+    },
+    {
+      "intent": "43255 - How can I cancel my order?",
+      "node_id": "SOP5_Node4438__case_1",
+      "count": 1
+    },
+    {
+      "intent": "__NULL__",
+      "node_id": "SOP117_Node696__case_1",
+      "count": 1
+    },
+    {
+      "intent": "43221 - Can I raise a return/refund request after selecting \"Order Received\"?",
+      "node_id": "__NULL__",
+      "count": 1
+    },
+    {
+      "intent": "__NULL__",
+      "node_id": "SOP117_Node683__case_3",
+      "count": 1
+    },
+    {
+      "intent": "43259 - How can I speed up my package delivery?",
+      "node_id": "SOP114_Node4__case_1",
+      "count": 1
+    },
+    {
+      "intent": "__NULL__",
+      "node_id": "SOP103_Node36__case_1",
+      "count": 1
+    },
+    {
+      "intent": "43249 - When will the order arrive?",
+      "node_id": "SOP10_Node5518__case_1",
+      "count": 1
+    },
+    {
+      "intent": "43259 - How can I speed up my package delivery?",
+      "node_id": "SOP15_Node25__case_1",
+      "count": 1
+    },
+    {
+      "intent": "43260 - What should I do if I have not received an order that is shown as \"delivered\"?",
+      "node_id": "SOP17_Node38__case_2",
+      "count": 1
+    },
+    {
+      "intent": "43274 - Accidentally click 'Received' but parcel hasn't arrived",
+      "node_id": "SOP10_Node5671__case_2",
+      "count": 1
+    },
+    {
+      "intent": "__NULL__",
+      "node_id": "SOP117_Node704__case_1",
+      "count": 1
+    }
+  ],
+  "sampling": {
+    "strategy": "stratified",
+    "population": 60410,
+    "n": 200,
+    "stratify_by": [
+      "intent",
+      "node_id"
+    ],
+    "n_strata": 177,
+    "max_per_stratum": 10
+  },
+  "export": {
+    "conversation_jsonl": "data\\out_llm_disabled_test\\sample_conversations.jsonl",
+    "messages_csv": "data\\out_llm_disabled_test\\sample_messages.csv",
+    "review_csv": "data\\out_llm_disabled_test\\sample_review.csv",
+    "n_conversations": 200,
+    "n_messages": 200
+  }
+}
